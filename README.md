@@ -9,3 +9,9 @@ Advantages of Project:
 · Built-in Notepad Functionality
 · Integrated Calculator for Money Management
 · booking confirmation notification
+
+
+![merged3](https://github.com/sheetal-81/DIGIBHEM/assets/134307985/9dfe8e46-010f-416c-8d05-0c6682e8e8c7)
+![merged2](https://github.com/sheetal-81/DIGIBHEM/assets/134307985/b2385957-ff9c-4e69-b802-b4ce8e4c81ca)
+![merged1](https://github.com/sheetal-81/DIGIBHEM/assets/134307985/ce93efa0-a5b5-4c78-b446-e5a35dca18cb)
+
